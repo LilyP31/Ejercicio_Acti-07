@@ -1,0 +1,8 @@
+.dado{
+    width: 8%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: block;
+    margin: auto;
+}
